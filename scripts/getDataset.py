@@ -12,6 +12,6 @@ d = Dataset(path)
 #print d.printHeaders()
 
 
-for column in d.columns:
+#for column in d.columns:
     #print column.name
-    print column.type
+#    print column.type

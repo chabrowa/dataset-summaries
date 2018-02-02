@@ -1,6 +1,9 @@
 from approach.config.imports import *
 
 
+from approach.Textual import Textual
+from approach.Numerical import Numerical
+
 class Column(object):
 
     def __init__(self, name, values):
